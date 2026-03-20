@@ -1,21 +1,18 @@
 {
-  "id": null,
-  "name": "{{project_name}}",
-  "slug": "{{project_slug}}",
+  "id": "a38b67e3-2f7a-4fe6-9681-c6a593813526",
+  "name": "Hello Otter",
+  "slug": "hello-otter",
   "description": "",
   "tagline": "",
   "tags": [],
-
   "owner": {
-    "id": null,
-    "email": null
+    "id": "U9zS290HBcTz4AG837umBdPeNfv2",
+    "email": "jos@flexgroup.dev"
   },
-
   "status": "active",
   "visibility": "private",
-
   "brand": {
-    "themeColor": "{{theme_color}}",
+    "themeColor": "#5E81AC",
     "theme": "default",
     "logo": null,
     "favicon": null,
@@ -25,26 +22,22 @@
       "image": null
     }
   },
-
   "deploy": {
     "rootMode": "prototype",
     "prototypeEnabled": true,
-    "vercelDomain": null,
+    "vercelDomain": "hello-otter-9wl6m5.flexos.site",
     "customDomain": null
   },
-
   "github": {
-    "repoOwner": null,
-    "repoName": null,
+    "repoOwner": "flexos-projects",
+    "repoName": "hello-otter-9wl6m5",
     "branch": "main",
-    "url": null
+    "url": "https://github.com/flexos-projects/hello-otter-9wl6m5"
   },
-
   "vercel": {
     "projectId": null,
     "productionUrl": null
   },
-
   "techStack": {
     "framework": "nuxt4",
     "hosting": "vercel",
@@ -52,13 +45,11 @@
     "auth": "better-auth",
     "css": "open-props"
   },
-
   "settings": {
     "defaultFocusMode": true,
     "autoSave": true,
     "aiModel": "gemini-flash"
   },
-
-  "createdAt": "{{created_at}}",
-  "updatedAt": "{{created_at}}"
+  "createdAt": "2026-03-20T22:42:37.066Z",
+  "updatedAt": "2026-03-20T22:42:37.066Z"
 }
