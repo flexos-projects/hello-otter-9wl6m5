@@ -7,6 +7,8 @@ status: draft
 sequence: 0
 tags: [origin, provenance]
 createdAt: "{{created_at}}"
+relatesTo:
+  - "content/context/001-about.md"
 ---
 
 <flex_block type="instructions">
